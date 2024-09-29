@@ -5,3 +5,4 @@
 4. Feature 4 x
 5. Bugfix 5 x
 6. Bugfix 6 x
+7. Change 7
